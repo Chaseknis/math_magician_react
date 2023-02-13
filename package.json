@@ -18,8 +18,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "/my-app",
-  
+  "homepage": "/math_magician",
+
   "eslintConfig": {
     "extends": [
       "react-app",
