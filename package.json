@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "/math_magician",
+  "homepage": "/math_magician_react",
 
   "eslintConfig": {
     "extends": [
