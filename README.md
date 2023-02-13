@@ -73,18 +73,13 @@
 
 - [Live Demo Link](https://chaseknis.github.io/math_magician_react/)
 
-<img width="1680" alt="Screenshot 2023-02-03 at 14 03 20" src="https://user-images.githubusercontent.com/97366651/216600708-e5947d6a-3910-439d-b040-bdc22a478849.png">
-<img width="389" alt="Screenshot 2023-02-03 at 14 03 36" src="https://user-images.githubusercontent.com/97366651/216600725-de25b031-be85-4c6d-bfdb-a9a2bf0774b6.png">
-
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 
-A beginner developer can use this website as a starting point for gaining basic knowledge on how to use APIs in your applictation.
+A beginner developer can use this website as a starting point for gaining basic knowledge on how to use React.js.
 
 ### Prerequisites
 
