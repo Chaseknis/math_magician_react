@@ -1,8 +1,6 @@
 <a name="readme-top"></a>
 
 
-</div>
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#portfolio)
@@ -71,7 +69,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://chaseknis.github.io/math_magician_react/)
+- [Live Demo Link](https://Chaseknis.github.io/math_magician_react/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
