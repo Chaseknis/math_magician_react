@@ -69,12 +69,12 @@ p {
   grid-column: 1 / span 2;
 }
 
+.orange {
+  background-color: orange;
+}
+
 button {
   width: 100%;
   border: none;
   padding: 1rem 2rem;
-}
-
-button:hover {
-  background-color: orange;
 }
