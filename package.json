@@ -9,7 +9,7 @@
     "espree": "^9.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -18,8 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "/math_magician_react",
-
+  "homepage": "http:///math_magician_react",
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -53,5 +52,17 @@
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
     "stylelint-scss": "^3.21.0"
+  },
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chaseknis/math_magician_react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chaseknis/math_magician_react/issues"
   }
 }
