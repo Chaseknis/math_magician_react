@@ -56,8 +56,6 @@
   </ul>
 </details>
 
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
 
 
@@ -161,8 +159,6 @@ To run tests, run the following command:
 
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> I'll add the following section to the webpage.
 
 - [ ] **[Making simple math calculations]()**
 
