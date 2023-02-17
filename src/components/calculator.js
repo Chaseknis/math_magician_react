@@ -29,7 +29,7 @@ export default function Calculator() {
           <button type="button" onClick={onClickHandler}>AC</button>
           <button type="button" onClick={onClickHandler}>+/-</button>
           <button type="button" onClick={onClickHandler}>%</button>
-          <button type="button" onClick={onClickHandler} className="orange">/</button>
+          <button type="button" onClick={onClickHandler} className="orange">÷</button>
 
           <button type="button" onClick={onClickHandler}>9</button>
           <button type="button" onClick={onClickHandler}>8</button>
